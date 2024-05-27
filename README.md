@@ -10,6 +10,6 @@ The included `Jupyter Notebooks` in this repository address these basic concepts
 
 - Linear Models
 - Decision Tree Models
-
+- Ensemble Methods
 For more information regarding each notebook, please read carefully the included
 text in each notebook (written in Greek as given from the course instructor).  
