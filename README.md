@@ -13,4 +13,4 @@ The included `Jupyter Notebooks` in this repository address these basic concepts
 - Ensemble Methods
 
 For more information regarding each notebook, please read carefully the included
-text in each notebook (written in Greek as given from the course instructor).  
+text in each notebook (as given from the course instructor).  
